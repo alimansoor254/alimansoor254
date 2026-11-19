@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ali Mansoor
 
-<!--
-**alimansoor254/alimansoor254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS developer in Paris with professional experience building and maintaining iOS apps. I work with Swift, UIKit, SwiftUI, REST APIs, Core Data, and XCTest. I also build Android apps in Kotlin.
 
-Here are some ideas to get you started:
+[Explore Mandarin Steps](https://github.com/alimansoor254/mandarin-steps) · [Connect on LinkedIn](https://www.linkedin.com/in/am254/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mobile projects
+
+| Project | What you can explore |
+| --- | --- |
+| [Mandarin Steps](https://github.com/alimansoor254/mandarin-steps) | Kotlin Android source, an offline lesson flow, quizzes, and locally saved progress. A new implementation inspired by my university Chinese learning project. |
+| [Cloud Storage: Easy Backup](https://apps.apple.com/pk/app/cloud-storage-easy-backup/id1670421356) | An iOS cloud backup app I contributed to at PAKZON IT. |
+| [Contacts Backup](https://apps.apple.com/pk/app/contacts-backup/id1631970497) | An iOS contacts backup and recovery app I contributed to at PAKZON IT. |
+
+<details>
+<summary>More about my iOS experience</summary>
+
+At PAKZON IT, I integrated REST APIs, resolved 20+ bugs, implemented Core Data storage, wrote XCTest unit tests, and supported TestFlight distribution and App Store deployments.
+
+</details>
